@@ -15,7 +15,7 @@ intn = sizeof(val) / sizeof(val[0]);
 
 cout << knapSack(W, wt, val, n);
 
-return0;
+return 0;
 
 }
 
